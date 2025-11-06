@@ -631,16 +631,14 @@ console.log("🏴‍☠️ Set sail!");
 
 <br/>
 
-<a href="https://www.buymeacoffee.com/ABIMADHAN">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me ramen 🍜&emoji=&slug=ABIMADHAN&button_colour=FF6B6B&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" />
-</a>
+
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://i.makeagif.com/media/4-06-2016/djprDz.gif">
 </div>
 
 <br/>
