@@ -638,7 +638,7 @@ console.log("🏴‍☠️ Set sail!");
 <br/>
 
 <div align="center">
-  <img src="https://i.makeagif.com/media/4-06-2016/djprDz.gif">
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="React Native"/>
 </div>
 
 <br/>
